@@ -1,2 +1,13 @@
 This is firt commit
+<<<<<<< HEAD
 adddsfdsfs
+=======
+:wq
+:w!
+exit
+adfasdfs
+:
+
+:q
+
+>>>>>>> parent of b135687... final COmmit
